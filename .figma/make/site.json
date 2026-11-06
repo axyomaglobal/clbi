@@ -1,0 +1,10 @@
+{
+  "description": "CLBI ofrece sistemas de gestión, consultoría tecnológica, infraestructura de redes, ciberseguridad y soporte informático para empresas.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
